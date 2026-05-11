@@ -1,7 +1,7 @@
 # 👟 Pé Quente 013 - E-commerce de Sneakers Premium
 
 <p align="center">
-  <img src="img/logo.png" alt="Pé Quente 013 Banner" width="600px">
+  <img src="img/logo.jpg" alt="Pé Quente 013 Banner" width="600px">
 </p>
 
 > **Status do Projeto:** 🚀 Em produção / Apresentação para Cliente.
